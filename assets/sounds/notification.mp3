@@ -1,0 +1,5 @@
+<!-- Notification Sound -->
+<audio id="cartSound">
+  <source src="../assets/sounds/notification.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
